@@ -1,0 +1,2 @@
+First line of File B written on master branch
+Second line of File B written on master branch
